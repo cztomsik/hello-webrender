@@ -7,3 +7,4 @@ authors = ["Kamil Tomšík <info@tomsik.cz>"]
 webrender = { path = "../webrender/webrender" }
 glutin = "0.18.0"
 gleam = "0.6.4"
+euclid = "0.19"

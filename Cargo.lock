@@ -301,6 +301,7 @@ dependencies = [
 name = "hello-webrender"
 version = "0.1.0"
 dependencies = [
+ "euclid 0.19.2 (registry+https://github.com/rust-lang/crates.io-index)",
  "gleam 0.6.4 (registry+https://github.com/rust-lang/crates.io-index)",
  "glutin 0.18.0 (registry+https://github.com/rust-lang/crates.io-index)",
  "webrender 0.57.2",
