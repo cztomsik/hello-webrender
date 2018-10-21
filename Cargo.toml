@@ -1,0 +1,9 @@
+[package]
+name = "hello-webrender"
+version = "0.1.0"
+authors = ["Kamil Tomšík <info@tomsik.cz>"]
+
+[dependencies]
+webrender = { path = "../webrender/webrender" }
+glutin = "0.18.0"
+gleam = "0.6.4"
